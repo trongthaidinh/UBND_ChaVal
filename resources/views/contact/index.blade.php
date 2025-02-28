@@ -85,7 +85,7 @@
             <div class="bg-gray-50 p-6 rounded-lg shadow-sm">
                 <h3 class="text-xl font-semibold text-primary mb-4 border-b pb-2">Vị Trí</h3>
                 <div class="aspect-w-16 aspect-h-9">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.878918778998!2d107.50666457459099!3d15.598116751878791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x316a6fbbf8e59d1d%3A0xac5f866b06c02148!2zVUJORCB4w6MgxJDhuq9jIFTDtGk!5e0!3m2!1sen!2s!4v1739955703919!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.4618685173446!2d107.50580837459138!3d15.620374651298798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x316a6fda356379c9%3A0x796761d64ffaf17c!2sCh%C3%A0%20V%C3%A0l%20Commune%20People&#39;s%20Committee!5e0!3m2!1sen!2s!4v1740706250884!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
